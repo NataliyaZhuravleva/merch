@@ -61,6 +61,6 @@ describe('productListReducer', () => {
       }
     });
   });
-  
+
 });
 
